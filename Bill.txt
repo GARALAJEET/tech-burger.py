@@ -1,0 +1,7 @@
+🍔🔥 TECH BURGER BILL 🔥🍔
+---------------------------------
+Item: Coffee
+Quantity: 2
+Total Price: ₹200.00
+---------------------------------
+Thank you for ordering from Tech Burger!

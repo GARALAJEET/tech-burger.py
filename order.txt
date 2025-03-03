@@ -1,0 +1,5 @@
+🍔🔥 TECH BURGER orders 🔥🍔
+---------------------------------
+orders_ID: 2  Name:Coffee   quantity:2   total_price:200.00
+orders_ID: 3  Name:Coffee   quantity:2   total_price:200.00
+---------------------------------
